@@ -17,7 +17,8 @@ The opcode pall prints all the values on the stack, starting from the top of the
 
 Usage pall
 Format: see example
-If the stack is empty, don’t print anything
+If the stack is empty, don’t print anything.
+
 Task 1
 ===================================================================
 Implement the pint opcode.
